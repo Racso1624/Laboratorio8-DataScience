@@ -1,3 +1,8 @@
+# Laboratorio 8
+# Integrantes:
+# Oscar López (20679)
+# Rodrigo Barrera (20807)
+
 # Importar libreria
 import streamlit as st
 from model import *

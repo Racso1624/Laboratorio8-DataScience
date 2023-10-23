@@ -1,3 +1,8 @@
+# Laboratorio 8
+# Integrantes:
+# Oscar López (20679)
+# Rodrigo Barrera (20807)
+
 # Se cargan las librerias
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import LabelEncoder
